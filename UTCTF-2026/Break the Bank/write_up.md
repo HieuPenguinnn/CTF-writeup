@@ -39,8 +39,6 @@ có thể đọc được demo login credentials:
 - Username: `testuser`
 - Password: `testpass123`
 
-Đây là bước giúp có được một phiên đăng nhập hợp lệ trên hệ thống.
-
 Sau khi đăng nhập, server cấp cho người dùng một cookie tên là:
 
 ```text
