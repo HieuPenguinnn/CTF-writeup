@@ -142,10 +142,6 @@ epoch = int(time.time())
 otp = gen_otp("timothy", epoch)
 
 print(otp)
-
-s = requests.Session()
-s.post("http://challenge.utctf.live:9382/auth", json={"username": "timothy", "otp": otp})
-print(s.get("http://challenge.utctf.live:9382/portal").text)
 ```
 
 Sau khi đăng nhập thành công, trang `/portal` hiện ra dashboard của Timothy.
