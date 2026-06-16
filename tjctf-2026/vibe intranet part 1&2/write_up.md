@@ -264,7 +264,7 @@ Password: amkji2ho2hO#*EH*(@Hhshag
 ## Flag part1
 
 ```text
-tjctf{w0W_y0U_r3A1ly_w3Nt_1n_bL1ND}
+tjctf{w0W_y0U_r3A1ly_w3Nt_In_bL1ND}
 ```
 
 ---
