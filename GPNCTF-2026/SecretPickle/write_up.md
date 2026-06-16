@@ -154,5 +154,5 @@ Kết quả:
 ## Flag
 
 ```text
-GPNCTF{thE_PIckle_w4S_seCr37_8u7_n3Ver_53cuRe}
+GPNCTF{th3_PICKl3_wA5_s3cRE7_buT_nEv3r_53cuRe}
 ```

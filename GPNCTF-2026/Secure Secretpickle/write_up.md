@@ -122,5 +122,5 @@ open screenshot.png
 ## Flag
 
 ```text
-GPNCTF{THE_PicK13r__PickL3_ME_This}
+GPNCTF{THE_p1cklER__P1CK13_ME_ThiS}
 ```

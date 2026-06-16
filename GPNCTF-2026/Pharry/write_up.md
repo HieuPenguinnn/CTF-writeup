@@ -211,5 +211,5 @@ Kết quả trả về:
 ## Flag
 
 ```text
-GPNCTF{We8_i5_For_WeE85_aNd_5UCk5_PhP_Is_CO01_t0U6h}
+GPNCTF{We8_iS_F0r_weEBS_AnD_suCKS_pHP_IS_CoOL_ToUgH}
 ```

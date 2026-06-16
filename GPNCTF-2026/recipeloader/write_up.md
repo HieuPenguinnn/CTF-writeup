@@ -111,5 +111,5 @@ Sau khi gửi URL cho bot, webhook nhận được request chứa cookie:
 ## Flag
 
 ```text
-GPNCTF{uR1_PaR5ing_IS_harD_3VEn_f0r_broWsERS}
+GPNCTF{uRl_PaR5INg_i5_h4rD_eV3N_FOr_8r0wS3rs}
 ```
