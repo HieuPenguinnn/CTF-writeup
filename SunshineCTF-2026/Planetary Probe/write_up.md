@@ -1,4 +1,4 @@
-# Planetary Directory
+# Planetary Probe
 
 ```
 The Galactic Federation has opened public access to its Planetary Probe Directory, a database of known planets and their telemetry signatures. Your mission is to interface with the probe console and uncover hidden data the Federation would rather keep secret.
